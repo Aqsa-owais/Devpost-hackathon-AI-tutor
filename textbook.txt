@@ -1,0 +1,9 @@
+Variables store data.
+
+Loops repeat instructions.
+
+Functions divide code into reusable blocks.
+
+Arrays store multiple values.
+
+Database stores organized information.
